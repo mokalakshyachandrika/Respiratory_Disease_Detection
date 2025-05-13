@@ -4,7 +4,7 @@ A deep learning-based project to detect respiratory diseases, specifically focus
 
 ---
 
-## 🧠 Model Overview
+## 🤖 Model Overview
 
 - **Model Type**: Custom CNN (Convolutional Neural Network)
 - **Task**: Binary Classification (COVID-19 vs. Normal)
@@ -20,8 +20,8 @@ A deep learning-based project to detect respiratory diseases, specifically focus
 
 ## 🗂 Dataset
 
-- **Training Path**: `C:\Users\vigne\data_new\Dataset\Train`
-- **Validation Path**: `C:\Users\vigne\data_new\Dataset\Val`
+- **Training Path**: `C:\Users\lakshya\data_new\Dataset\Train`
+- **Validation Path**: `C:\Users\lakshya\data_new\Dataset\Val`
 - **Images**:
   - Training: 288 images (2 classes)
   - Validation: 60 images (2 classes)
